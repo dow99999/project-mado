@@ -1,0 +1,17 @@
+===========================TODO====================================
+
+posibilidad de añadir comandos desde discord (ojo permisos)
+
+===================================================================
+
+=================DISEÑO DE LA APLICACION===========================
+
+- JSON -
+comandos
+autoresponder
+guardar ultima respuesta para cadenas de respuesta (seguir cancion)
+niveles de usuarios (?)
+inventario del usuario
+drops por nivel
+
+===================================================================
